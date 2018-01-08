@@ -53,7 +53,7 @@ A list of aptitude installable build dependencies for Ubuntu Precise.
       - ncurses-libs.i686
       - zlib.i686
 
-A list of yum installable build dependencies for RedHat based OS.
+A list of yum/dnf installable build dependencies for RedHat based OS.
 
     android_sdk_update_path: true
 
